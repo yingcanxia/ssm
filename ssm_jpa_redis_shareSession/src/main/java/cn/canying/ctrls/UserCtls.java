@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.servlet.ModelAndView;
 
 import cn.canying.bean.User;
-import cn.canying.redis.RedisCache;
 import cn.canying.services.UserService;
 import cn.canying.util.PageData;
 
